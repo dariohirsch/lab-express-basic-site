@@ -1,0 +1,17 @@
+body {
+	background-color: rgb(75, 135, 214);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+.title {
+	margin-top: 30px;
+}
+
+.image {
+	width: 300px;
+	height: 300px;
+}
